@@ -67,7 +67,7 @@ class PageZero extends StatelessWidget {
                       );
             },
             child: Ink.image(
-                image:AssetImage('assets/images/giris.png'),
+                image:AssetImage('assets/images/giris.jpg'),
                 // height: 200,
                 // width: 300,
                 fit: BoxFit.fitWidth,
